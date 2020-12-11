@@ -1,0 +1,16 @@
+B-geo
+B-tim
+B-org
+I-per
+B-per
+I-org
+B-gpe
+I-geo
+I-tim
+B-art
+B-eve
+I-art
+I-eve
+B-nat
+I-gpe
+I-nat
